@@ -26,4 +26,4 @@ cd items-comparator
 Feel free to contribute to this project by suggesting improvements or new features. You can submit your ideas by creating an issue or a pull request.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/R-D-Y/items-comparator/blob/main/LICENCE.md) file for details.
