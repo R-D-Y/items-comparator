@@ -27,3 +27,4 @@ Feel free to contribute to this project by suggesting improvements or new featur
 
 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/R-D-Y/items-comparator/blob/main/LICENSE.md) file for details.
+
