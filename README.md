@@ -11,7 +11,7 @@ You need to have Python 3 installed on your computer to run this script.
 ## Setup
 Type the following command on your terminal :
 ```plaintext
-git clone https://github.com/R-D-Y/items-comparator.git
+git clone https://github.com/R-D-Y/items-comparator.git 
 cd items-comparator
 ```
 
