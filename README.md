@@ -1,5 +1,5 @@
 # Items-comparator
-This Python script compares two text files and outputs a file with the unique elements found in each file. It's useful for comparing lists of items like file names, keywords, or email addresses.
+This Python script compares two text files and outputs a file with the unique elements found in each file. It's useful for comparing lists of items like file names, keywords, or email addresses. 
 
 
 ## Python script for comparing text files
