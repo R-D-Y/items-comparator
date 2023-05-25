@@ -8,6 +8,7 @@ This Python script compares two text files and outputs a file with the unique el
 ## Prerequisites
 You need to have Python 3 installed on your computer to run this script.
 
+
 ## Setup
 Type the following command on your terminal :
 ```plaintext
